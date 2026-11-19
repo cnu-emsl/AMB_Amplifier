@@ -1,1 +1,4 @@
-* Basic Rules
+* AMB Amplifier
+This repository stores notes, codes, data and publication related to
+the work on power amplifiers driving active magnetic bearings.
+
